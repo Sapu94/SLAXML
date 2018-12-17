@@ -1,7 +1,7 @@
 package = "SLAXML"
 version = "0.7-0"
 source = {
-  url = "git://github.com/Sapu94/SLAXML.git"
+  url = "https://github.com/Sapu94/SLAXML.git"
 }
 description = {
   summary = "SAX-like streaming XML parser for Lua",
